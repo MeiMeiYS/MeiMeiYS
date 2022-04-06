@@ -2,7 +2,7 @@
 
 ## 📖 About Mei Shih
 - 🖥 Full-stack software developer
-- 🎓 Associate of Arts in Fashion Design from FiDM, current student at App Academy
+- 🎓 Associate of Arts in Fashion Design from FiDM & graduated from App Academy full time 24 week program
 - 💼 Intern at Alucio
 - 🎨 Pixel artist
 - 🌐 Check out my personal website: https://meiys.me/
